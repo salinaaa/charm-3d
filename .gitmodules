@@ -1,0 +1,9 @@
+[submodule "contrib/p4est"]
+	path = contrib/p4est
+	url = http://github.com/cburstedde/p4est.git
+	ignore=dirty
+[submodule "contrib/yaml-cpp"]
+	path = contrib/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp.git
+	ignore=dirty
+
